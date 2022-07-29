@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"compare": "c",
+		"cmath": "c",
+		"include.h": "c",
+		"unistd.h": "c"
+	}
+}

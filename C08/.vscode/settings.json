@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"ft_boolean.h": "c",
+		"ft_stock_str.h": "c",
+		"stdio.h": "c"
+	}
+}
